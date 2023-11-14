@@ -1,7 +1,7 @@
 import click
 import requests
 
-API_BASE_URL = "http://host.docker.internal"
+API_BASE_URL = "34.174.1.18"
 
 @click.group()
 def cli():
